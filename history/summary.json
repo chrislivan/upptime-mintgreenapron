@@ -4,17 +4,19 @@
     "url": "https://www.mintgreenapron.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mintgreenapron.com.ico",
     "slug": "mintgreenapron",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 215,
-    "timeWeek": 264,
-    "timeMonth": 261,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 282,
+    "timeDay": 10058,
+    "timeWeek": 2718,
+    "timeMonth": 894,
+    "timeYear": 286,
+    "dailyMinutesDown": {
+      "2024-10-04": 0
+    }
   }
 ]
