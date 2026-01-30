@@ -4,7 +4,7 @@
     "url": "https://www.mintgreenapron.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mintgreenapron.com.ico",
     "slug": "mintgreenapron",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 257,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-11-18": 170,
       "2025-06-01": 120,
       "2025-04-08": 58,
