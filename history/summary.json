@@ -6,21 +6,20 @@
     "slug": "mintgreenapron",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 269,
-    "timeDay": 357,
-    "timeWeek": 268,
-    "timeMonth": 264,
-    "timeYear": 271,
+    "timeDay": 329,
+    "timeWeek": 275,
+    "timeMonth": 265,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2026-04-06": 63,
       "2026-01-30": 43,
       "2025-11-18": 170,
-      "2025-06-01": 120,
-      "2025-04-08": 58
+      "2025-06-01": 120
     }
   }
 ]
